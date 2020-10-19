@@ -1,4 +1,3 @@
-# zakatapp-android.github.io
-Aplikasi Zakat Berbasis Android
+# zakatapp-android.github.io 
 "Main Program"
 Open Component > Navgiasi.js
